@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[![Twitter: andrewlook](https://img.shields.io/twitter/follow/andrewlook?style=social)](https://twitter.com/andrewlook)
+[![Linkedin: andrewlook](https://img.shields.io/badge/-andrewlook-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewlook/)](https://www.linkedin.com/in/andrewlook/)
+[![GitHub andrewlook](https://img.shields.io/github/followers/andrewlook?label=follow&style=social)](https://github.com/andrewlook)
+
 <!--
 **andrewlook/andrewlook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
