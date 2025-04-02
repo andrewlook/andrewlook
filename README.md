@@ -2,11 +2,11 @@
 
 ### Hi 👋 I'm Andrew
 
-I'm an ML Engineer, former startup founder and artist based in Brooklyn.
+I'm an ML Engineer and artist based in Brooklyn, currently working at Notion AI.
 
 You can find me at [andrewlook.com](https://andrewlook.com/) or you can see my art at [@andrewlookart](https://instagram.com/andrewlookart).
 
-Fun projects I've been working on lately:
+Some fun projects I've worked on recently:
 - [SLML - Single Line Machine Learning](https://andrewlook.com/projects/slml.html): I'm training SketchRNN on a dataset of thousands of drawings that I've made.
 - [Titanic's End](https://github.com/titanicsend/LXStudio-TE) Mutant Vehicle: Making audio-reactive GLSL shader patterns to be displayed on > 100,000 LED's during concerts. Here's the latest shader I'm working on: [vortex.fs](https://github.com/titanicsend/LXStudio-TE/pull/448).
 
